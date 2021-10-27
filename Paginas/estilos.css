@@ -27,10 +27,11 @@ header{
 }
 
 .dad{
-	width: 120px;
+	width: 80px;
 	float: left;
 	padding: 8px;
 	margin-left: 5%;
+	padding-top: 14px;
 }
 
 .navegador{
@@ -39,7 +40,7 @@ header{
 }
 
 .navegador ul li{
-	margin-left: 75px;
+	margin-left: 50px;
 	padding: 12px 0;
 	float: left;
 	position: relative;
@@ -50,7 +51,6 @@ header{
 	color: #2E86C1;
 	font-weight: bold;
 	text-decoration: none;
-	font-size: 130%;
 }
 
 article section h1{
